@@ -1,0 +1,13 @@
+#idToggle{
+    margin-right: 3pc;
+  }
+#navbar{
+transition: 1s;
+}
+.form-check-label{
+  color:white;
+}
+
+#alrt{
+  transition:3s;
+}
